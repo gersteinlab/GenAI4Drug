@@ -7,6 +7,6 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
 </p> 
 
 <p align="center">
-1. Yale University, New Haven; 2. Tsinghua University, China;<br>
- (*: Equal Contribution;)
+1. Yale University, New Haven; 2. Tsinghua University, China<br>
+ (*: Equal Contribution)
 </p> 
