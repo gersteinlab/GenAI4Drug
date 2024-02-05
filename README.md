@@ -33,9 +33,7 @@ INSERT TABLE W/ TECH PAPERS
 
 ### Datasets
 **Quantum chemistry structures and properties of 134 kilo molecules** (QM9) 
-
 Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld 
-
 [Scientific Data (2014)](https://www.nature.com/articles/sdata201422)
 
 ### Metrics
