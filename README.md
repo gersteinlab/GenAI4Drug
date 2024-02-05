@@ -23,9 +23,9 @@ Below is an organized list of referenced papers, with links to full texts.
 
 INSERT TABLE W/ TECH PAPERS
 
-**Paper Title** (Model name) \\ 
-Author1, Author2, ... \\ 
-[Conference (Year)](link)
+**Paper Title** (Model name) 
+ Author1, Author2, ... 
+ [Conference (Year)](link)
 
 # Molecule Design 
 
