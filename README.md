@@ -23,8 +23,8 @@ Below is an organized list of referenced papers, with links to full texts.
 
 INSERT TABLE W/ TECH PAPERS
 
-**Paper Title** (Model name)
-Author1, Author2, ...
+**Paper Title** (Model name) \\ 
+Author1, Author2, ... \\ 
 [Conference (Year)](link)
 
 # Molecule Design 
@@ -32,8 +32,8 @@ Author1, Author2, ...
 ## Target-Agnostic Generation
 
 ### Datasets
-**Quantum chemistry structures and properties of 134 kilo molecules** (QM9)
-Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld
+**Quantum chemistry structures and properties of 134 kilo molecules** (QM9) \\ 
+Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld \\ 
 [Scientific Data (2014)](https://www.nature.com/articles/sdata201422)
 
 ### Metrics
