@@ -44,7 +44,7 @@ Simon Axelrod, Rafael Gómez-Bombarelli
 
 ### Metrics
 
-* **Quantifying the chemical beauty of drugs** (QED)
+* **Quantifying the chemical beauty of drugs** (QED)    
   G Richard Bickerton, Gaia V Paolini, Jérémy Besnard, Sorel Muresan, Andrew L Hopkins    
   [Nature Chemistry (2012)](https://pubmed.ncbi.nlm.nih.gov/22270643/)
 
