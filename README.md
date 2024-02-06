@@ -121,7 +121,7 @@ Simon Axelrod, Rafael Gómez-Bombarelli
 
 ### Metrics
 
-* **AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading** (Vina)   
+* **AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading** (Vina AutoDock)   
  Oleg Trott, Arthur J. Olson     
 [JCC 2010](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21334)
 
@@ -129,7 +129,7 @@ Simon Axelrod, Rafael Gómez-Bombarelli
   G Richard Bickerton, Gaia V Paolini, Jérémy Besnard, Sorel Muresan, Andrew L Hopkins    
   [Nature Chemistry (2012)](https://pubmed.ncbi.nlm.nih.gov/22270643/)
 
-* **Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions** (Model name)   
+* **Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions** (SAScore)   
  Peter Ertl, Ansgar Schuffenhauer 
 [Journal of Cheminformatics 2009](https://link.springer.com/article/10.1186/1758-2946-1-8)
 
