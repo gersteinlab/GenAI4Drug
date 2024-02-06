@@ -115,7 +115,7 @@ Simon Axelrod, Rafael Gómez-Bombarelli
 [ACS JCIM 2020](https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c00675)
 
 * **Binding MOAD (Mother Of All Databases)** (Binding MOAD)   
- Liegi Hu, Mark L. Benson, Richard D. Smith, Michael G. Lerner, Heather A. Carlson
+ Liegi Hu, Mark L. Benson, Richard D. Smith, Michael G. Lerner, Heather A. Carlson      
 [Proteins 2005](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.20512)
 
 
