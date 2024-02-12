@@ -193,41 +193,127 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 [Scientific Reports 2019](https://www.nature.com/articles/s41598-019-56773-5)
 
 * **A Generative Model for Molecular Distance Geometry** (GraphDG)   
- Gregor N. C. Simm, Jose Miguel Hernandez-Lobato 
+ Gregor N. C. Simm, Jose Miguel Hernandez-Lobato      
 [ICML 2020](https://proceedings.mlr.press/v119/simm20a.html)
 
 * **Learning Neural Generative Dynamics for Molecular Conformation Generation** (CGCF)   
- Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang           
+ Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang            
 [ICLR 2021](https://arxiv.org/abs/2102.10240) 
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles** (GeoMol)   
+ Octavian Ganea, Lagnajit Pattanaik, Connor Coley, Regina Barzilay, Klavs Jensen, William Green, Tommi Jaakkola        
+[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/725215ed82ab6306919b485b81ff9615-Abstract.html)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **Learning Gradient Fields for Molecular Conformation Generation** (ConfGF)   
+ Chence Shi, Shitong Luo, Minkai Xu, Jian Tang       
+[ICML 2021](https://proceedings.mlr.press/v139/shi21b.html)
+
+* **Predicting Molecular Conformation via Dynamic Graph Score Matching** (DGSM)   
+ Shitong Luo, Chence Shi, Minkai Xu, Jian Tang   
+[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)
+
+* **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)   
+ Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
+[ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)
 
 
 # Protein Design
 
 
+
 ## Representation Learning (appendix)
+
+
+### Datasets
+
+* **UniProt: the Universal Protein knowledgebase** (UniProt)   
+ Rolf Apweiler, Amos Bairoch, Cathy H. Wu, Winona C. Barker, Brigitte Boeckmann, Serenella Ferro, Elisabeth Gasteiger, Hongzhan Huang, Rodrigo Lopez, Michele Magrane, Maria J. Martin, Darren A. Natale, Claire O'Donovan, Nicole Redaschi, Lai-Su L. Yeh             
+[Nucleic Acids Research 2004](https://academic.oup.com/nar/article/32/suppl_1/D115/2505378)
+
+* **OntoProtein: Protein Pretraining With Gene Ontology Embedding** (ProteinKG)   
+ Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, Shumin Deng, Jiazhang Lian, Qiang Zhang, Huajun Chen      
+[ICLR 2022](https://arxiv.org/abs/2201.11147)
+
+* **The Protein Data Bank** (PDB)   
+ Helen M. Berman, John Westbrook, Zukang Feng, Gary Gilliland, T. N. Bhat, Helge Weissig, Ilya N. Shindyalov, Philip E. Bourne       
+[Nucleic Acids Research 2000](https://academic.oup.com/nar/article/28/1/235/2384399)
+
+* **AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models** (AlphaFoldDB)   
+ Mihaly Varadi, Stephen Anyango, Mandar Deshpande, Sreenath Nair, Cindy Natassia, Galabina Yordanova, David Yuan, Oana Stroe, Gemma Wood, Agata Laydon, Augustin Žídek, Tim Green, Kathryn Tunyasuvunakool, Stig Petersen, John Jumper, Ellen Clancy, Richard Green, Ankur Vora, Mira Lutfi, Michael Figurnov, Andrew Cowie, Nicole Hobbs, Pushmeet Kohli, Gerard Kleywegt, Ewan Birney, Demis Hassabis, Sameer Velankar       
+[Nucleic Acids Research 2022](https://academic.oup.com/nar/article/50/D1/D439/6430488)
+
+* **Pfam: The protein families database in 2021** (Pfam)   
+ Jaina Mistry, Sara Chuguransky, Lowri Williams, Matloob Qureshi, Gustavo A Salazar, Erik L L Sonnhammer, Silvio C E Tosatto, Lisanna Paladin, Shriya Raj, Lorna J Richardson, Robert D Finn, Alex Bateman      
+[Nucleic Acids Research 2021](https://academic.oup.com/nar/article/49/D1/D412/5943818)
+
+
+### Models
+
+* **Unified rational protein engineering with sequence-based deep representation learning** (UniRep)   
+ Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church       
+[Nature Methods 2019](https://www.nature.com/articles/s41592-019-0598-1)
+
+* **Prottrans: Toward understanding the language of life through self-supervised learning** (ProtBERT)   
+ Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Ghalia Rehawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Martin Steinegger, Debsindhu Bhowmik, and Burkhard Rost       
+[IEEE PAMI 2021](https://ieeexplore.ieee.org/abstract/document/9477085)
+
+* **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** (ESM-1b)   
+ Alexander Rives, Joshua Meier, Tom Sercu, Siddharth Goyal, Zeming Lin, Jason Liu, Demi Guo, Myle Ott, C. Lawrence Zitnick, Jerry Ma, Rob Fergus          
+[PNAS 2021](https://www.pnas.org/doi/full/10.1073/pnas.2016239118)
+
+* **MSA Transformer** (MSA Transformer)   
+ Roshan M Rao, Jason Liu, Robert Verkuil, Joshua Meier, John Canny, Pieter Abbeel, Tom Sercu, Alexander Rives      
+[ICML 2021](https://proceedings.mlr.press/v139/rao21a.html)
+
+* **Retrieved Sequence Augmentation for Protein Representation Learning** (RSA)   
+ Chang Ma, Haiteng Zhao, Lin Zheng, Jiayi Xin, Qintong Li, Lijun Wu, Zhihong Deng, Yang Lu, Qi Liu, Lingpeng Kong      
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.02.22.529597v3.abstract)
+
+* **OntoProtein: Protein Pretraining With Gene Ontology Embedding** (OntoProtein)   
+ Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, Shumin Deng, Jiazhang Lian, Qiang Zhang, Huajun Chen       
+[ICLR 2022](https://arxiv.org/abs/2201.11147)
+
+* **Protein Representation Learning via Knowledge Enhanced Primary Structure Modeling** (KeAP)   
+ Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Cheng Bian, Yizhou Yu        
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.01.26.525795v1.abstract)
+
+* **Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures** (IEConv)   
+ Pedro Hermosilla, Marco Schäfer, Matěj Lang, Gloria Fackelmann, Pere Pau Vázquez, Barbora Kozlíková, Michael Krone, Tobias Ritschel, Timo Ropinski       
+[ICLR 2021](https://arxiv.org/abs/2007.06252)
+
+* **Structure-based protein function prediction using graph convolutional networks** (DeepFRI)   
+ Vladimir Gligorijević, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Daniel Berenberg, Tommi Vatanen, Chris Chandler, Bryn C. Taylor, Ian M. Fisk, Hera Vlamakis, Ramnik J. Xavier, Rob Knight, Kyunghyun Cho, Richard Bonneau        
+[Nature Communications 2021](https://www.nature.com/articles/s41467-021-23303-9)
+
+* **Protein Representation Learning by Geometric Structure Pretraining** (GearNET)   
+ Zuobai Zhang, Minghao Xu, Arian Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, Payel Das, Jian Tang       
+ [arXiv:2203.06125 (2022)](https://arxiv.org/abs/2203.06125)
+
+
+## Structure Prediction
+
+
+### Datasets
 
 * **Paper Title** (Model name)   
  Author1, Author2, ...   
 Conference (Year)
 
-### Datasets
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)
 
-### Metrics
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)  
 
-### Models
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)
 
-
-## Structure Prediction
-
-### Datasets
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)  
 
 ### Metrics
 
