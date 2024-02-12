@@ -14,7 +14,7 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
 
 <p align="center">
   <br>
-  <!-- <img src="dl_pd.png" alt="deep learning for protein design" width="500"> -->
+  <!-- <img src="GenAI4Drug_Overview.png" alt="deep learning for protein design" width="500"> -->
   <img src="cover.jpg" alt="deep learning for protein design">
 </p>
 
