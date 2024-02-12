@@ -140,10 +140,6 @@ Simon Axelrod, Rafael Gómez-Bombarelli
 
 ### Models
 
-
-
-
-
 * **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** (DrugGPT)   
 Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han     
 [bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1.abstract)
@@ -165,7 +161,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
   [ICLR 2023](https://arxiv.org/abs/2303.03543)
 
 * **Structure-based Drug Design with Equivariant Diffusion Models** (DiffSBDD)   
- Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia     
+ Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia      
   [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  
 
 
@@ -174,31 +170,35 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 ### Datasets
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **GEOM, energy-annotated molecular conformations for property prediction and molecular generation** (GEOM)   
+ Simon Axelrod, Rafael Gómez-Bombarelli    
+[Scientific Data 2022](https://www.nature.com/articles/s41597-022-01288-4)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **SchNet: A continuous-filter convolutional neural network for modeling quantum interactions** (ISO17)    
+ Kristof Schütt, Pieter-Jan Kindermans, Huziel Enoc Sauceda Felix, Stefan Chmiela, Alexandre Tkatchenko, Klaus-Robert Müller      
+[NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/303ed4c69846ab36c2904d3ba8573050-Abstract.html)
 
 
 ### Metrics
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)  
-
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **Learning Neural Generative Dynamics for Molecular Conformation Generation** (Coverage, Matching)   
+ Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang           
+[ICLR 2021](https://arxiv.org/abs/2102.10240) 
 
 
 ### Models
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)  
+* **Molecular Geometry Prediction using a Deep Generative Graph Neural Network** (CVGAE)   
+ Elman Mansimov, Omar Mahmood, Seokho Kang, Kyunghyun Cho       
+[Scientific Reports 2019](https://www.nature.com/articles/s41598-019-56773-5)
+
+* **A Generative Model for Molecular Distance Geometry** (GraphDG)   
+ Gregor N. C. Simm, Jose Miguel Hernandez-Lobato 
+[ICML 2020](https://proceedings.mlr.press/v119/simm20a.html)
+
+* **Learning Neural Generative Dynamics for Molecular Conformation Generation** (CGCF)   
+ Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang           
+[ICLR 2021](https://arxiv.org/abs/2102.10240) 
 
 * **Paper Title** (Model name)   
  Author1, Author2, ...   
@@ -213,6 +213,10 @@ Conference (Year)
 
 
 ## Representation Learning (appendix)
+
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)
 
 ### Datasets
 
