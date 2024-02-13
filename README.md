@@ -148,12 +148,12 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
  Tomohide Masuda, Matthew Ragoza, David Ryan Koes       
  [arXiv:2010.14442 (2020)](https://arxiv.org/abs/2010.14442)
 
-* **Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets** (Pocket2Mol)   
+* **Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets** (Pocket2Mol)     
  Xingang Peng, Shitong Luo, Jiaqi Guan, Qi Xie, Jian Peng, Jianzhu Ma      
 [ICML 2022](https://proceedings.mlr.press/v162/peng22b.html)
 
-* **A 3D Generative Model for Structure-Based Drug Design** 
-  Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng        
+* **A 3D Generative Model for Structure-Based Drug Design**        
+  Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng         
 [NeurIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
 
 * **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)
