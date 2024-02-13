@@ -22,14 +22,15 @@ An overview of topics covered in our paper. Sections highlighted in blue can be 
 
 Below is an organized list of referenced papers, with links to full texts.
 
+<!---   
 # Technical Background 
-
+TODO: update the photo with a new screenshot (changed RFDiffusion citation)
 
 INSERT TABLE W/ TECH PAPERS
-
+            
 * **Paper Title** (Model name)   
  Author1, Author2, ...   
-Conference (Year)  
+Conference (Year)  -->
 
 # Molecule Design 
 
@@ -295,41 +296,138 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 ### Datasets
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **The Protein Data Bank** (PDB)   
+ Helen M. Berman, John Westbrook, Zukang Feng, Gary Gilliland, T. N. Bhat, Helge Weissig, Ilya N. Shindyalov, Philip E. Bourne       
+[Nucleic Acids Research 2000](https://academic.oup.com/nar/article/28/1/235/2384399)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **Critical assessment of methods of protein structure prediction (CASP)—Round XIV** (CASP14)   
+ Andriy Kryshtafovych, Torsten Schwede, Maya Topf, Krzysztof Fidelis, John Moult           
+ [Proteins 2021](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26237)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)  
+* **Continuous Automated Model EvaluatiOn (CAMEO) complementing the critical assessment of structure prediction in CASP12** (CAMEO)   
+ Jürgen Haas, Alessandro Barbato, Dario Behringer, Gabriel Studer, Steven Roth, Martino Bertoni, Khaled Mostaguir, Rafal Gumienny, Torsten Schwede           
+[Proteins 2017](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25431)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
-
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)  
 
 ### Metrics
 
+* **LGA: a method for finding 3D similarities in protein structures** (GDT-TS)     
+ Adam Zemla           
+[Nucleic Acids 2003](https://academic.oup.com/nar/article/31/13/3370/2904193)  
+
+* **Scoring function for automated assessment of protein structure template quality** (TM-score)   
+ Yang Zhang, Jeffrey Skolnick        
+[Proteins 2004](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.20264)
+
+* **lDDT: a local superposition-free score for comparing protein structures and models using distance difference tests** (lDDT)     
+ Valerio Mariani, Marco Biasini, Alessandro Barbato, Torsten Schwede          
+[Bioinformatics 2013](https://academic.oup.com/bioinformatics/article/29/21/2722/195896)
+
+
 ### Models
+
+* **Highly accurate protein structure prediction with AlphaFold** (AlphaFold)   
+ John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli, Demis Hassabis         
+[Nature 2021](https://www.nature.com/articles/s41586-021-03819-2))
+
+* **The trRosetta server for fast and accurate protein structure prediction** (trRosetta)   
+ Zongyang Du, Hong Su, Wenkai Wang, Lisha Ye, Hong Wei, Zhenling Peng, Ivan Anishchenko, David Baker, Jianyi Yang
+[Nature Protocols 2021](https://www.nature.com/articles/s41596-021-00628-9)
+
+* **Accurate prediction of protein structures and interactions using a three-track neural network** (RoseTTAFold)   
+ Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang, Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose H. Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K. Rathinaswamy, Udit Dalwadi, Calvin K. Yip, John E. Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read, David Baker       
+[Science 2021](https://www.science.org/doi/10.1126/science.abj8754)
+
+* **Evolutionary-scale prediction of atomic-level protein structure with a language model** (ESMFold)   
+ Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives       
+[Science 2023](https://www.science.org/doi/full/10.1126/science.ade2574)
+
+* **EigenFold: Generative Protein Structure Prediction with Diffusion Models** (EigenFold)   
+ Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola      
+[arXiv:2304.02198 (2023)](https://arxiv.org/abs/2304.02198)
+
 
 
 ## Generation 
 
+
 ### Datasets
+
+* **The Protein Data Bank** (PDB)   
+ Helen M. Berman, John Westbrook, Zukang Feng, Gary Gilliland, T. N. Bhat, Helge Weissig, Ilya N. Shindyalov, Philip E. Bourne       
+[Nucleic Acids Research 2000](https://academic.oup.com/nar/article/28/1/235/2384399)
+
+* **AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models** (AlphaFoldDB)   
+ Mihaly Varadi, Stephen Anyango, Mandar Deshpande, Sreenath Nair, Cindy Natassia, Galabina Yordanova, David Yuan, Oana Stroe, Gemma Wood, Agata Laydon, Augustin Žídek, Tim Green, Kathryn Tunyasuvunakool, Stig Petersen, John Jumper, Ellen Clancy, Richard Green, Ankur Vora, Mira Lutfi, Michael Figurnov, Andrew Cowie, Nicole Hobbs, Pushmeet Kohli, Gerard Kleywegt, Ewan Birney, Demis Hassabis, Sameer Velankar       
+[Nucleic Acids Research 2022](https://academic.oup.com/nar/article/50/D1/D439/6430488)
+
+* **SCOP: A structural classification of proteins database for the investigation of sequences and structures** (SCOP)   
+ Alexey G. Murzin, Steven E. Brenner, Tim Hubbard, Cyrus Chothia
+[JMB 1995](https://www.sciencedirect.com/science/article/pii/S0022283605801342)
+
+* **SCOPe: improvements to the structural classification of proteins – extended database to facilitate variant interpretation and machine learning** (SCOPe)   
+ John-Marc Chandonia, Lindsey Guan, Shiangyi Lin, Changhua Yu, Naomi K Fox, Steven E Brenner
+[Nucleic Acids Research 2022](https://academic.oup.com/nar/article/50/D1/D553/6447236)
+
+* **CATH: comprehensive structural and functional annotations for genome sequences** (CATH)   
+ Ian Sillitoe, Tony E. Lewis, Alison Cuff, Sayoni Das, Paul Ashford, Natalie L. Dawson, Nicholas Furnham, Roman A. Laskowski, David Lee, Jonathan G. Lees, Sonja Lehtinen, Romain A. Studer, Janet Thornton, Christine A. Orengo        
+[Nucleic Acids Research 2015](https://academic.oup.com/nar/article/43/D1/D376/2439515)
+
 
 ### Metrics
 
+* **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** (scTM)   
+ Brian L. Trippe, Jason Yim, Doug Tischer, David Baker, Tamara Broderick, Regina Barzilay, Tommi Jaakkola      
+[ICLR 2023](https://arxiv.org/abs/2206.04119)
+
+
 ### Models
 
+* **ProteinVAE: Variational AutoEncoder for Translational Protein Design** (ProteinVAE)   
+ Suyue Lyu, Shahin Sowlati-Hashjin, Michael Garton
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.03.04.531110v1.abstract)
+
+* **ProT-VAE: Protein Transformer Variational AutoEncoder for Functional Protein Design** (ProT-VAE)   
+ Emre Sevgen, Joshua Moller, Adrian Lange, John Parker, Sean Quigley, Jeff Mayer, Poonam Srivastava, Sitaram Gayatri, David Hosfield, Maria Korshunova, Micha Livne, Michelle Gill, Rama Ranganathan, Anthony B. Costa, Andrew L. Ferguson       
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.01.23.525232v1.abstract)
+
+* **Expanding functional protein sequence spaces using generative adversarial networks** (ProteinGAN)   
+ Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Irmantas Rokaitis, Jan Zrimec, Simona Poviloniene, Audrius Laurynenas, Sandra Viknander, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak         
+[Nature Machine Intelligence (2021)](https://www.nature.com/articles/s42256-021-00310-5)
+
+* **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** (ProtDiff)   
+ Brian L. Trippe, Jason Yim, Doug Tischer, David Baker, Tamara Broderick, Regina Barzilay, Tommi Jaakkola      
+[ICLR 2023](https://arxiv.org/abs/2206.04119)
+
+* **Protein structure generation via folding diffusion** (FoldingDiff)   
+ Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, Sarah Alamdari, James Y. Zou, Alex X. Lu, Ava P. Amini      
+[Nature Communications 2024](https://www.nature.com/articles/s41467-024-45051-2)
+
+* **A Latent Diffusion Model for Protein Structure Generation** (LatentDiff)   
+ Cong Fu, Keqiang Yan, Limei Wang, Wing Yee Au, Michael McThrow, Tao Komikado, Koji Maruhashi, Kanji Uchino, Xiaoning Qian, Shuiwang Ji      
+[LoG 2023](https://arxiv.org/abs/2305.04120)
+
+* **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds** (Genie)   
+ Yeqing Lin, Mohammed AlQuraishi          
+[arXiv:2301.12485 (2023)](https://arxiv.org/abs/2301.12485) 
+
+* **SE(3) diffusion model with application to protein backbone generation** (FrameDiff)   
+ Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola       
+[ICML 2023](https://dl.acm.org/doi/10.5555/3618408.3620080)
+
+* **De novo design of protein structure and function with RFdiffusion** (RFDiffusion)   
+ Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, Andrew J. Borst, Robert J. Ragotte, Lukas F. Milles, Basile I. M. Wicky, Nikita Hanikel, Samuel J. Pellock, Alexis Courbet, William Sheffler, Jue Wang, Preetham Venkatesh, Isaac Sappington, Susana Vázquez Torres, Anna Lauko, Valentin De Bortoli, Emile Mathieu, Sergey Ovchinnikov, Regina Barzilay, Tommi S. Jaakkola, Frank DiMaio, Minkyung Baek, David Baker        
+[Nature 2023](https://www.nature.com/articles/s41586-023-06415-8)
 
 
+<!---   
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)
+
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year) 
 
 # Antibody Design (appendix)
 
@@ -359,3 +457,5 @@ Conference (Year)
 ### Metrics
 
 ### Models
+
+-->
