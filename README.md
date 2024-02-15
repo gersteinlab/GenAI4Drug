@@ -20,6 +20,21 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
 
 An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  
 
+
+## Cite us
+```
+@article{tang2024gaisurvey,
+  title={A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation},
+  author={Tang, Xiangru and Dai, Howard and Knight, Elizabeth and Wu, Fang and Li, Yunyang and Li, Tianxiao and Gerstein, Mark},
+  journal={arXiv preprint arXiv:2402.08703},
+  year={2023}
+}
+```
+
+
+
+
+
 Below is an organized list of referenced papers, with links to full texts.
 
 <!---   
