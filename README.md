@@ -181,7 +181,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
   [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  
 
 
-## Conformation Generation
+## Conformation Generation (appendix)
 
 
 ### Datasets
@@ -435,39 +435,116 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 [Nature 2023](https://www.nature.com/articles/s41586-023-06415-8)
 
 
-<!---   
+
+
+# Antibody Design
+
+
+## Representation Learning (appendix)
+
+
+### Datasets
+
+* **Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences** (OAS)   
+ Tobias H. Olsen, Fergus Boyles, Charlotte M. Deane        
+[Protein Science 2022](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.4205)
+
+
+### Models
+
+* **Antibody Representation Learning for Drug Discovery** (BERTTransformer)   
+ Lin Li, Esther Gupta, John Spaeth, Leslie Shing, Tristan Bepler, Rajmonda Sulo Caceres         
+[arXiv:2210.02881 (2022)](https://arxiv.org/abs/2210.02881)
+
+* **Deciphering antibody affinity maturation with language models and weakly supervised learning** (AntiBERTy)   
+ Jeffrey A. Ruffolo, Jeffrey J. Gray, Jeremias Sulam         
+[arXiv:2112.07782 (2021)](https://arxiv.org/abs/2112.07782)
+
+* **Deciphering the language of antibodies using selfsupervised learning** (AntiBERTa)   
+ Jinwoo Leem, Laura S. Mitchell, James H.R. Farmery, Justin Barton, Jacob D. Galson       
+[Patterns 2022](https://pubmed.ncbi.nlm.nih.gov/35845836/)
+
+* **AbLang: an antibody language model for completing antibody sequences** (AbLang)   
+ Tobias H Olsen, Iain H Moal, Charlotte M Deane        
+[Bioinformatics Advances 2022](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac046/6609807)
+
+* **Pre-training with A rational approach for antibody** (PARA)   
+ Xiangrui Gao, Changling Cao, Lipeng Lai         
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.01.19.524683v2.abstract) 
+
+
+
+## Structure Prediction
+
+
+### Datasets
+
+* **SAbDab: the structural antibody database** (SAbDab)   
+ James Dunbar, Konrad Krawczyk, Jinwoo Leem, Terry Baker, Angelika Fuchs, Guy Georges, Jiye Shi, Charlotte M. Deane       
+[Nucleic Acids Research 2014](https://academic.oup.com/nar/article/42/D1/D1140/1044118)
+
+* **RosettaAntibodyDesign (RAbD): A general framework for computational antibody design** (RAB)   
+  Jared Adolf-Bryfogle, Oleks Kalyuzhniy, Michael Kubitz, Brian D. Weitzner, Xiaozhen Hu, Yumiko Adachi, William R. Schief, Roland L. Dunbrack, Jr.       
+[PLOS Computational Biology 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942852/)
+
+
+### Metrics
+
+* **Improved prediction of antibody VL–VH orientation** (OCD)  
+ Nicholas A. Marze, Sergey Lyskov, Jeffrey J. Gray      
+[PEDS 2016](https://academic.oup.com/peds/article/29/10/409/2462315)
+
+
+### Models
+
+* **tFold-Ab: Fast and Accurate Antibody Structure Prediction without Sequence Homologs** (tFold-Ab)   
+ Jiaxiang Wu, Fandi Wu, Biaobin Jiang, Wei Liu, Peilin Zhao      
+[bioRxiv (2022)](https://www.biorxiv.org/content/10.1101/2022.11.10.515918v1.abstract)
+
+* **xTrimoABFold: De novo Antibody Structure Prediction without MSA** (xTrimoABFold)   
+ Yining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Yangang Wang, Cheng Yang, Hui Li, Le Song       
+[arXiv:2212.00735 (2022)](https://arxiv.org/abs/2212.00735)
+
+* **ImmuneBuilder: Deep-Learning models for predicting the structures of immune proteins** (ABodyBuilder)   
+ Brennan Abanades, Wing Ki Wong, Fergus Boyles, Guy Georges, Alexander Bujotzek, Charlotte M. Deane       
+[Nature 2023](https://www.nature.com/articles/s42003-023-04927-7)
+
+* **ABlooper: fast accurate antibody CDR loop structure prediction with accuracy estimation** (ABlooper)   
+ Brennan Abanades, Guy Georges, Alexander Bujotzek, Charlotte M Deane        
+[Bioinformatics 2022](https://pubmed.ncbi.nlm.nih.gov/35099535/)
+
+* **Geometric potentials from deep learning improve prediction of CDR H3 loop structures** (DeepH3)   
+ Jeffrey A Ruffolo, Carlos Guerra, Sai Pooja Mahajan, Jeremias Sulam, Jeffrey J Gray       
+[Bioinformatics 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355305/)
+
+* **Simple End-to-end Deep Learning Model for CDR-H3 Loop Structure Prediction** (SimpleDH3)   
+ Natalia Zenkova, Ekaterina Sedykh, Tatiana Shugaeva, Vladislav Strashko, Timofei Ermak, Aleksei Shpilman      
+[arXiv:2111.10656 (2021)](https://arxiv.org/abs/2111.10656)
+
+* **Antibody structure prediction using interpretable deep learning** (DeepAB)   
+ Jeffrey A Ruffolo, Jeremias Sulam, Jeffrey J Gray      
+[Patterns 2021](https://pubmed.ncbi.nlm.nih.gov/35199061/)
+
+* **Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies** (IgFold)   
+ Jeffrey A Ruffolo, Lee-Shin Chu, Sai Pooja Mahajan, Jeffrey J Gray      
+[Nature Communications 2023](https://pubmed.ncbi.nlm.nih.gov/37185622/)
+
+
+## CDR Generation 
+
+### Datasets
+
 * **Paper Title** (Model name)   
  Author1, Author2, ...   
 Conference (Year)
 
 * **Paper Title** (Model name)   
  Author1, Author2, ...   
-Conference (Year) 
+Conference (Year)
 
-# Antibody Design (appendix)
-
-
-## Representation Learning (appendix)
-
-### Datasets
-
-### Metrics
-
-### Models
-
-
-## Structure Prediction
-
-### Datasets
-
-### Metrics
-
-### Models
-
-
-## CDR Generation 
-
-### Datasets
+* **Paper Title** (Model name)   
+ Author1, Author2, ...   
+Conference (Year)
 
 ### Metrics
 
