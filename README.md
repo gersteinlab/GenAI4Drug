@@ -603,7 +603,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 * **End-to-End Full-Atom Antibody Design** (dyMEAN)   
  Xiangzhe Kong, Wenbing Huang, Yang Liu       
-[ICML 2023](https://arxiv.org/abs/2302.00203)https://arxiv.org/abs/2302.00203
+[ICML 2023](https://arxiv.org/abs/2302.00203)
 
 
 
