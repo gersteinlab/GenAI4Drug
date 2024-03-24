@@ -12,18 +12,19 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
 </p> 
 
 ## Table of Contents
+[**] denotes appendix sections.
 
 Section | Subsection | Datasets | Metrics | Models 
 ---------|---------- | ------------- |---- | --- 
 [Molecule](#molecule-design) | [Target-Agnostic Generation](#target-agnostic-generation) | [Datasets](#datasets) | [Metrics](#metrics) | [Models](#models)
 [Molecule](#molecule-design) | [Target-Aware Generation](#target-aware-generation) | [Datasets](#datasets-1) | [Metrics](#metrics-1) | [Models](#models-1)
-[Molecule](#molecule-design) | [Conformation Generation (appendix)](#conformation-generation-appendix) | [Datasets](#datasets-2) | [Metrics](#metrics-2) | [Models](#models-2)
-[Protein](#protein-design) | [Representation Learning (appendix)](#representation-learning-appendix) | [Datasets](#datasets-3) |     | [Models](#models-3)
+[Molecule](#molecule-design) | [Conformation Generation**](#conformation-generation-appendix) | [Datasets](#datasets-2) | [Metrics](#metrics-2) | [Models](#models-2)
+[Protein](#protein-design) | [Representation Learning**](#representation-learning-appendix) | [Datasets](#datasets-3) |     | [Models](#models-3)
 [Protein](#protein-design) | [Structure Prediction](#structure-prediction) | [Datasets](#datasets-4) | [Metrics](#metrics-3) | [Models](#models-4)
 [Protein](#protein-design) | [Generation](#generation) | [Datasets](#datasets-5) | [Metrics](#metrics-4) | [Models](#models-5)
-[Antibody](#antibody-design) | [Representation Learning (appendix)](#representation-learning-appendix-1) | [Datasets](#datasets-6) |   | [Models](#models-6)
-[Antibody](#antibody-design) | [Structure Prediction (appendix)](#structure-prediction-appendix) | [Datasets](#datasets-7) | [Metrics](#metrics-5) | [Models](#models-7)
-[Antibody](#antibody-design) | [CDR Generation (appendix)](#cdr-generation-appendix) | [Datasets](#datasets-8) | [Metrics](#metrics-6) | [Models](#models-8)
+[Antibody](#antibody-design) | [Representation Learning**](#representation-learning-appendix-1) | [Datasets](#datasets-6) |   | [Models](#models-6)
+[Antibody](#antibody-design) | [Structure Prediction**](#structure-prediction-appendix) | [Datasets](#datasets-7) | [Metrics](#metrics-5) | [Models](#models-7)
+[Antibody](#antibody-design) | [CDR Generation**](#cdr-generation-appendix) | [Datasets](#datasets-8) | [Metrics](#metrics-6) | [Models](#models-8)
   
 <!---
 <p align="center">
