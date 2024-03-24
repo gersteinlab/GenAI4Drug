@@ -11,26 +11,7 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
  (*: Equal Contribution)
 </p> 
 
-
-<p align="center">
-  <br>
-  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> -->
-  <img src="GenAIOutline.png" alt="generative AI for drug design">
-</p>
-
-An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  
-
-
-## Cite us
-```
-@article{tang2024gaisurvey,
-  title={A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation},
-  author={Tang, Xiangru and Dai, Howard and Knight, Elizabeth and Wu, Fang and Li, Yunyang and Li, Tianxiao and Gerstein, Mark},
-  journal={arXiv preprint arXiv:2402.08703},
-  year={2023}
-}
-```
-
+## Table of Contents
 - [Molecule Design](#molecule-design)
   - [Target-Agnostic Generation](#target-agnostic-generation)
     - [Datasets](#datasets)
@@ -68,6 +49,28 @@ An overview of topics covered in our paper. Sections highlighted in blue can be 
     - [Datasets](#datasets-8)
     - [Metrics](#metrics-6)
     - [Models](#models-8)
+   
+  
+
+<p align="center">
+  <br>
+  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> -->
+  <img src="GenAIOutline.png" alt="generative AI for drug design">
+</p>
+
+An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  
+
+
+## Cite us
+```
+@article{tang2024gaisurvey,
+  title={A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation},
+  author={Tang, Xiangru and Dai, Howard and Knight, Elizabeth and Wu, Fang and Li, Yunyang and Li, Tianxiao and Gerstein, Mark},
+  journal={arXiv preprint arXiv:2402.08703},
+  year={2023}
+}
+```
+
 
 
 <!---   
