@@ -13,17 +13,17 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
 
 ## Table of Contents
 - [Molecule Design](#molecule-design)
-  - [Target-Agnostic Generation](#target-agnostic-generation) - [Datasets](#datasets) - [Metrics](#metrics) - [Models](#models)
-  - [Target-Aware Generation](#target-aware-generation) - [Datasets](#datasets-1) - [Metrics](#metrics-1) - [Models](#models-1)
-  - [Conformation Generation (appendix)](#conformation-generation-appendix) - [Datasets](#datasets-2) - [Metrics](#metrics-2) - [Models](#models-2)
+  - [Target-Agnostic Generation](#target-agnostic-generation)                         - [Datasets](#datasets)   - [Metrics](#metrics)  - [Models](#models)
+  - [Target-Aware Generation](#target-aware-generation)                               - [Datasets](#datasets-1) - [Metrics](#metrics-1) - [Models](#models-1)
+  - [Conformation Generation (appendix)](#conformation-generation-appendix)           - [Datasets](#datasets-2) - [Metrics](#metrics-2) - [Models](#models-2)
 - [Protein Design](#protein-design)
-  - [Representation Learning (appendix)](#representation-learning-appendix) - [Datasets](#datasets-3) - [Models](#models-3)
-  - [Structure Prediction](#structure-prediction) - [Datasets](#datasets-4) - [Metrics](#metrics-3) - [Models](#models-4)
-  - [Generation](#generation) - [Datasets](#datasets-5) - [Metrics](#metrics-4) - [Models](#models-5)
+  - [Representation Learning (appendix)](#representation-learning-appendix)           - [Datasets](#datasets-3)                         - [Models](#models-3)
+  - [Structure Prediction](#structure-prediction)                                     - [Datasets](#datasets-4) - [Metrics](#metrics-3) - [Models](#models-4)
+  - [Generation](#generation)                                                         - [Datasets](#datasets-5) - [Metrics](#metrics-4) - [Models](#models-5)
 - [Antibody Design](#antibody-design)
-  - [Representation Learning (appendix)](#representation-learning-appendix-1) - [Datasets](#datasets-6) - [Models](#models-6)
-  - [Structure Prediction (appendix)](#structure-prediction-appendix) - [Datasets](#datasets-7) - [Metrics](#metrics-5) - [Models](#models-7)
-  - [CDR Generation (appendix)](#cdr-generation-appendix) - [Datasets](#datasets-8) - [Metrics](#metrics-6) - [Models](#models-8)
+  - [Representation Learning (appendix)](#representation-learning-appendix-1)         - [Datasets](#datasets-6) - [Models](#models-6)
+  - [Structure Prediction (appendix)](#structure-prediction-appendix)                 - [Datasets](#datasets-7) - [Metrics](#metrics-5) - [Models](#models-7)
+  - [CDR Generation (appendix)](#cdr-generation-appendix)                             - [Datasets](#datasets-8) - [Metrics](#metrics-6) - [Models](#models-8)
    
   
 <!---
