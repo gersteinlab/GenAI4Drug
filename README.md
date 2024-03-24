@@ -39,14 +39,17 @@ Section | Subsection | Datasets | Metrics | Models
 }
 ```
 
+
 ## Overview of Topics
+
+An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix. 
+
 <p align="center">
   <br>
   <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500">  -->
   <img src="GenAIOutline.png" alt="generative AI for drug design">
 </p>
 
-An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix. 
 
 
 
