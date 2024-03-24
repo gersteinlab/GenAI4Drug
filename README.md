@@ -42,7 +42,7 @@ Section | Subsection | Datasets | Metrics | Models
 ## Overview of Topics
 <p align="center">
   <br>
-  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> 
+  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500">  -->
   <img src="GenAIOutline.png" alt="generative AI for drug design">
 </p>
 
