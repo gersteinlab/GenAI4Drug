@@ -474,7 +474,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 
 
-## Structure Prediction
+## Structure Prediction (appendix)
 
 
 ### Datasets
@@ -530,24 +530,65 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 [Nature Communications 2023](https://pubmed.ncbi.nlm.nih.gov/37185622/)
 
 
-## CDR Generation 
+## CDR Generation (appendix)
+
 
 ### Datasets
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **SAbDab: the structural antibody database** (SAbDab)   
+ James Dunbar, Konrad Krawczyk, Jinwoo Leem, Terry Baker, Angelika Fuchs, Guy Georges, Jiye Shi, Charlotte M. Deane       
+[Nucleic Acids Research 2014](https://academic.oup.com/nar/article/42/D1/D1140/1044118)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **RosettaAntibodyDesign (RAbD): A general framework for computational antibody design** (RAB)   
+  Jared Adolf-Bryfogle, Oleks Kalyuzhniy, Michael Kubitz, Brian D. Weitzner, Xiaozhen Hu, Yumiko Adachi, William R. Schief, Roland L. Dunbrack, Jr.       
+[PLOS Computational Biology 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942852/)
 
-* **Paper Title** (Model name)   
- Author1, Author2, ...   
-Conference (Year)
+* **SKEMPI 2.0: an updated benchmark of changes in protein-protein binding energy, kinetics and thermodynamics upon mutation** (SKEMPI)   
+ Justina Jankauskaite, Brian Jiménez-García, Justas Dapkunas, Juan Fernández-Recio, Iain H Moal       
+[Bioinformatics 2019](https://pubmed.ncbi.nlm.nih.gov/30020414/)
+
 
 ### Metrics
 
+* **Scoring function for automated assessment of protein structure template quality** (TM-score)   
+ Yang Zhang, Jeffrey Skolnick        
+[Proteins 2004](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.20264)
+
+
 ### Models
 
--->
+* **In silico proof of principle of machine learning-based antibody design at unconstrained scale**  
+ Rahmad Akbara, Philippe A. Roberta, Cédric R. Weberb, Michael Widrichc, Robert Franka, Milena Pavlovićd, Lonneke Schefferd, Maria Chernigovskayaa, Igor Snapkova, Andrei Slabodkina, Brij Bhushan Mehtaa, Enkelejda Mihoe, Fridtjof Lund-Johansena, Jan Terje Andersena,f, Sepp Hochreiterc,g, Ingrid Hobæk Haffh, Günter Klambauerc, Geir Kjetil Sandved, Victor Greiff        
+[mAbs 2022](https://www.tandfonline.com/doi/full/10.1080/19420862.2022.2031482)https://www.tandfonline.com/doi/full/10.1080/19420862.2022.2031482
+
+* **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design** (RefineGNN)   
+ Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi Jaakkola          
+[ICLR 2022](https://arxiv.org/abs/2110.04624)
+
+* **Conditional Antibody Design as 3D Equivariant Graph Translation** (MEAN)   
+ Xiangzhe Kong, Wenbing Huang, Yang Liu      
+[ICLR 2023](https://arxiv.org/abs/2208.06073)
+
+* **Cross-Gate MLP with Protein Complex Invariant Embedding is A One-Shot Antibody Designer** (ADesigner)   
+ Cheng Tan, Zhangyang Gao, Lirong Wu, Jun Xia, Jiangbin Zheng, Xihong Yang, Yue Liu, Bozhen Hu, Stan Z. Li      
+[AAAI 2024](https://arxiv.org/abs/2305.09480)
+
+* **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures** (DiffAb)   
+ Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma       
+[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3fa7d76a0dc1179f1e98d1bc62403756-Abstract-Conference.html)
+
+* **Deep Learning for Flexible and Site-Specific Protein Docking and Design** (DockGPT)   
+ Matt McPartlon, Jinbo Xu        
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.04.01.535079v1.abstract)
+
+* **Antibody-Antigen Docking and Design via Hierarchical Equivariant Refinement** (HERN)   
+ Wengong Jin, Dr.Regina Barzilay, Tommi Jaakkola       
+[ICML 2022](https://proceedings.mlr.press/v162/jin22a)
+
+* **End-to-End Full-Atom Antibody Design** (dyMEAN)   
+ Xiangzhe Kong, Wenbing Huang, Yang Liu       
+[ICML 2023](https://arxiv.org/abs/2302.00203)https://arxiv.org/abs/2302.00203
+
+
+
+
