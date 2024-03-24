@@ -26,14 +26,7 @@ Section | Subsection | Datasets | Metrics | Models
 [Antibody](#antibody-design) | [Structure Prediction**](#structure-prediction-appendix) | [Datasets](#datasets-7) | [Metrics](#metrics-5) | [Models](#models-7)
 [Antibody](#antibody-design) | [CDR Generation**](#cdr-generation-appendix) | [Datasets](#datasets-8) | [Metrics](#metrics-6) | [Models](#models-8)
   
-<!---
-<p align="center">
-  <br>
-  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> 
-  <img src="GenAIOutline.png" alt="generative AI for drug design">
-</p>
 
-An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  -->
 
 
 ## Cite us
@@ -45,6 +38,15 @@ An overview of topics covered in our paper. Sections highlighted in blue can be 
   year={2023}
 }
 ```
+
+## Overview of Topics
+<p align="center">
+  <br>
+  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> 
+  <img src="GenAIOutline.png" alt="generative AI for drug design">
+</p>
+
+An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix. 
 
 
 
