@@ -51,14 +51,14 @@ Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>
     - [Models](#models-8)
    
   
-<!---   
+<!---
 <p align="center">
   <br>
-  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> -->
+  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500"> 
   <img src="GenAIOutline.png" alt="generative AI for drug design">
 </p>
 
-An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  --->
+An overview of topics covered in our paper. Sections highlighted in blue can be found in the main text, while purple sections are extended sections found in the appendix.  -->
 
 
 ## Cite us
