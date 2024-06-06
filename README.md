@@ -379,7 +379,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 
 
-## Generation 
+## Backbone Design 
 
 
 ### Datasets
@@ -450,6 +450,21 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
  Joseph L. Watson, David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, Andrew J. Borst, Robert J. Ragotte, Lukas F. Milles, Basile I. M. Wicky, Nikita Hanikel, Samuel J. Pellock, Alexis Courbet, William Sheffler, Jue Wang, Preetham Venkatesh, Isaac Sappington, Susana Vázquez Torres, Anna Lauko, Valentin De Bortoli, Emile Mathieu, Sergey Ovchinnikov, Regina Barzilay, Tommi S. Jaakkola, Frank DiMaio, Minkyung Baek, David Baker        
 [Nature 2023](https://www.nature.com/articles/s41586-023-06415-8)
 
+* **Protein Language Model Supervised Precise and Efficient Protein Backbone Design Method** (GPDL)        
+ Bo Zhang, Kexin Liu, Zhuoqi Zheng, Yunfeiyang Liu, Junxi Mu, Ting Wei, Hai-Feng Chen             
+  [bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.10.26.564121v1)
+
+* **Joint Design of Protein Sequence and Structure based on Motifs** (GeoPro)           
+ Zhenqiao Song, Yunlong Zhao, Yufei Song, Wenxian Shi, Yang Yang, Lei Li             
+  [arXiv:2310.02546 (2023)](https://arxiv.org/abs/2310.02546)
+
+* **An all-atom protein generative model** (Protpardelle)              
+  Alexander E. Chu, Lucy Cheng, Gina El Nesr, Minkai Xu, Po-Ssu Huang           
+  [bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.05.24.542194v1)
+
+* **Protein Sequence and Structure Co-Design with Equivariant Translation** (ProtSeed)              
+  Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang      
+  [ICLR 2023](https://openreview.net/forum?id=pRCMXcfdihq)
 
 
 
