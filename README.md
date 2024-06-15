@@ -377,6 +377,78 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
  Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola      
 [arXiv:2304.02198 (2023)](https://arxiv.org/abs/2304.02198)
 
+## Sequence Generation
+
+
+### Datasets
+
+* **The Protein Data Bank** (PDB)   
+ Helen M. Berman, John Westbrook, Zukang Feng, Gary Gilliland, T. N. Bhat, Helge Weissig, Ilya N. Shindyalov, Philip E. Bourne       
+[Nucleic Acids Research 2000](https://academic.oup.com/nar/article/28/1/235/2384399)
+
+* **UniProt: the Universal Protein knowledgebase** (UniRef/UniParc)   
+ Rolf Apweiler, Amos Bairoch, Cathy H. Wu, Winona C. Barker, Brigitte Boeckmann, Serenella Ferro, Elisabeth Gasteiger, Hongzhan Huang, Rodrigo Lopez, Michele Magrane, Maria J. Martin, Darren A. Natale, Claire O'Donovan, Nicole Redaschi, Lai-Su L. Yeh             
+[Nucleic Acids Research 2004](https://academic.oup.com/nar/article/32/suppl_1/D115/2505378)
+
+* **CATH: comprehensive structural and functional annotations for genome sequences** (CATH)   
+ Ian Sillitoe, Tony E. Lewis, Alison Cuff, Sayoni Das, Paul Ashford, Natalie L. Dawson, Nicholas Furnham, Roman A. Laskowski, David Lee, Jonathan G. Lees, Sonja Lehtinen, Romain A. Studer, Janet Thornton, Christine A. Orengo        
+[Nucleic Acids Research 2015](https://academic.oup.com/nar/article/43/D1/D376/2439515)
+
+
+* **Direct prediction of profiles of sequences compatible to a protein structure by neural networks with fragment-based local and energy-based nonlocal profiles** (TS500)   
+ Zhixiu Li, Yuedong Yang, Eshel Faraggi, Jian Zhan, and Yaoqi Zhou         
+[Proteins 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177274/)
+
+### Models
+
+* **ProteinVAE: Variational AutoEncoder for Translational Protein Design** (ProteinVAE)   
+ Suyue Lyu, Shahin Sowlati-Hashjin, Michael Garton
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.03.04.531110v1.abstract)
+
+* **ProT-VAE: Protein Transformer Variational AutoEncoder for Functional Protein Design** (ProT-VAE)   
+ Emre Sevgen, Joshua Moller, Adrian Lange, John Parker, Sean Quigley, Jeff Mayer, Poonam Srivastava, Sitaram Gayatri, David Hosfield, Maria Korshunova, Micha Livne, Michelle Gill, Rama Ranganathan, Anthony B. Costa, Andrew L. Ferguson       
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.01.23.525232v1.abstract)
+
+* **Expanding functional protein sequence spaces using generative adversarial networks** (ProteinGAN)   
+ Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Irmantas Rokaitis, Jan Zrimec, Simona Poviloniene, Audrius Laurynenas, Sandra Viknander, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak         
+[Nature Machine Intelligence (2021)](https://www.nature.com/articles/s42256-021-00310-5)
+
+* **Fast and flexible protein design using deep graph neural networks** (ProteinSolver)   
+ Alexey Strokach, David Becerra, Carles Corbi-Verge, Albert Perez-Riba, Philip M. Kim        
+[Cell Systems 2020](https://pubmed.ncbi.nlm.nih.gov/32971019/)
+
+* **PiFold: Toward effective and efficient protein inverse folding** (PiFold)   
+ Zhangyang Gao, Cheng Tan, Stan Z. Li        
+[ICLR 2023](https://openreview.net/forum?id=oMsN9TYwJ0j)
+
+* **Protein sequence design with a learned potential**       
+ Namrata Anand, Raphael Eguchi, Irimpan I. Mathews, Carla P. Perez, Alexander Derry, Russ B. Altman, Po-Ssu Huang     
+[Nature Communications 2022](https://www.nature.com/articles/s41467-022-28313-9)
+
+* **Rotamer-free protein sequence design based on deep learning and self-consistency** (ABACUS-R)     
+ Yufeng Liu, Lu Zhang, Weilun Wang, Min Zhu, Chenchen Wang, Fudong Li, Jiahai Zhang, Houqiang Li, Quan Chen, Haiyan Liu      
+[Nature Computational Science 2022](https://www.nature.com/articles/s43588-022-00273-6)
+
+ * **ProRefiner: an entropy-based refining strategy for inverse protein folding with global graph attention** (ProRefiner)     
+ Xinyi Zhou, Guangyong Chen, Junjie Ye, Ercheng Wang, Jun Zhang, Cong Mao, Zhanwei Li, Jianye Hao, Xingxu Huang, Jin Tang, Pheng Ann Heng         
+[Nature Communications 2023](https://www.nature.com/articles/s41467-023-43166-6)
+
+* **Graphormer supervised de novo protein design method and function validation** (GPD)     
+ Junxi Mu, Zhengxin Li, Bo Zhang, Qi Zhang, Jamshed Iqbal, Abdul Wadood, Ting Wei, Yan Feng, Hai-Feng Chen     
+  [Briefings in Bioinformatics 2024](https://academic.oup.com/bib/article/25/3/bbae135/7638270)
+
+* **Learning from Protein Structure with Geometric Vector Perceptrons** (GVP-GNN)     
+ Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael John Lamarre Townshend, Ron Dror          
+[ICLR 2021](https://openreview.net/forum?id=1YLJDvSx6J4)
+
+* **Learning inverse folding from millions of predicted structures** (ESM-IF1)     
+ Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives      
+[ICML 2022](https://proceedings.mlr.press/v162/hsu22a.html)
+
+* **Robust deep learning--based protein sequence design using ProteinMPNN** (ProteinMPNN)     
+ J Dauparas, I Anishchenko, N Bennett, H Bai, R J Ragotte, L F Milles, B I M Wicky, A Courbet, R J de Haas, N Bethel, P J Y Leung, T F Huddy, S Pellock, D Tischer, F Chan, B Koepnick, H Nguyen, A Kang, B Sankaran, A K Bera, N P King, D Baker       
+[Science 2022](https://www.science.org/doi/10.1126/science.add2187)
+
 
 
 ## Backbone Design 
@@ -413,18 +485,6 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 
 ### Models
-
-* **ProteinVAE: Variational AutoEncoder for Translational Protein Design** (ProteinVAE)   
- Suyue Lyu, Shahin Sowlati-Hashjin, Michael Garton
-[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.03.04.531110v1.abstract)
-
-* **ProT-VAE: Protein Transformer Variational AutoEncoder for Functional Protein Design** (ProT-VAE)   
- Emre Sevgen, Joshua Moller, Adrian Lange, John Parker, Sean Quigley, Jeff Mayer, Poonam Srivastava, Sitaram Gayatri, David Hosfield, Maria Korshunova, Micha Livne, Michelle Gill, Rama Ranganathan, Anthony B. Costa, Andrew L. Ferguson       
-[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.01.23.525232v1.abstract)
-
-* **Expanding functional protein sequence spaces using generative adversarial networks** (ProteinGAN)   
- Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Irmantas Rokaitis, Jan Zrimec, Simona Poviloniene, Audrius Laurynenas, Sandra Viknander, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak         
-[Nature Machine Intelligence (2021)](https://www.nature.com/articles/s42256-021-00310-5)
 
 * **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** (ProtDiff)   
  Brian L. Trippe, Jason Yim, Doug Tischer, David Baker, Tamara Broderick, Regina Barzilay, Tommi Jaakkola      
