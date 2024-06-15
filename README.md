@@ -46,8 +46,8 @@ An overview of topics covered in our paper. Sections highlighted in blue can be 
 
 <p align="center">
   <br>
-  <!-- <img src="GenAIOutline.png" alt="generative AI for drug design" width="500">  -->
-  <img src="GenAIOutline.png" alt="generative AI for drug design">
+  <!-- <img src="GenAIOutline_New.png" alt="generative AI for drug design" width="500">  -->
+  <img src="GenAIOutline_New.png" alt="generative AI for drug design">
 </p>
 
 
