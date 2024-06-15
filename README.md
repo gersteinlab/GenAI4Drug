@@ -21,11 +21,12 @@ Section | Subsection | Datasets | Metrics | Models
 [Molecule](#molecule) | [Conformation Generation**](#conformation-generation-appendix) | [Datasets](#datasets-2) | [Metrics](#metrics-2) | [Models](#models-2)
 [Protein](#protein) | [Representation Learning**](#representation-learning-appendix) | [Datasets](#datasets-3) |     | [Models](#models-3)
 [Protein](#protein) | [Structure Prediction](#structure-prediction) | [Datasets](#datasets-4) | [Metrics](#metrics-3) | [Models](#models-4)
-[Protein](#protein) | [Generation](#generation) | [Datasets](#datasets-5) | [Metrics](#metrics-4) | [Models](#models-5)
-[Antibody](#antibody) | [Representation Learning**](#representation-learning-appendix-1) | [Datasets](#datasets-6) |   | [Models](#models-6)
-[Antibody](#antibody) | [Structure Prediction**](#structure-prediction-appendix) | [Datasets](#datasets-7) | [Metrics](#metrics-5) | [Models](#models-7)
-[Antibody](#antibody) | [CDR Generation**](#cdr-generation-appendix) | [Datasets](#datasets-8) | [Metrics](#metrics-6) | [Models](#models-8)
-[Peptide](#peptide) | [Misc. Tasks**](#cdr-generation-appendix) |  |  | [Models](#models-9)
+[Protein](#protein) | [Sequence Generation](#sequence-generation) | [Datasets](#datasets-5) | [Metrics](#metrics-4) | [Models](#models-5)
+[Protein](#protein) | [Backbone Design](#backbone-design) | [Datasets](#datasets-6) | [Metrics](#metrics-5) | [Models](#models-6)
+[Antibody](#antibody) | [Representation Learning**](#representation-learning-appendix-1) | [Datasets](#datasets-7) |   | [Models](#models-7)
+[Antibody](#antibody) | [Structure Prediction**](#structure-prediction-appendix) | [Datasets](#datasets-8) | [Metrics](#metrics-6) | [Models](#models-8)
+[Antibody](#antibody) | [CDR Generation**](#cdr-generation-appendix) | [Datasets](#datasets-9) | [Metrics](#metrics-7) | [Models](#models-9)
+[Peptide](#peptide) | [Misc. Tasks**](#cdr-generation-appendix) |  |  | [Models](#models-10)
   
 
 
