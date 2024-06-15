@@ -63,7 +63,7 @@ INSERT TABLE W/ TECH PAPERS
  Author1, Author2, ...   
 Conference (Year)  -->
 
-# Molecule Design 
+# Molecule
 
 ## Target-Agnostic Generation
 
@@ -249,7 +249,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)
 
 
-# Protein Design
+# Protein
 
 
 
@@ -402,7 +402,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 ### Models
 
 * **ProteinVAE: Variational AutoEncoder for Translational Protein Design** (ProteinVAE)   
- Suyue Lyu, Shahin Sowlati-Hashjin, Michael Garton
+ Suyue Lyu, Shahin Sowlati-Hashjin, Michael Garton        
 [bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.03.04.531110v1.abstract)
 
 * **ProT-VAE: Protein Transformer Variational AutoEncoder for Functional Protein Design** (ProT-VAE)   
@@ -528,7 +528,7 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
 
 
 
-# Antibody Design
+# Antibody
 
 
 ## Representation Learning (appendix)
@@ -680,6 +680,36 @@ Yuesen Li, Chengyi Gao, Xin Song, Xiangyu Wang, Yungang Xu, Suxia Han
  Xiangzhe Kong, Wenbing Huang, Yang Liu       
 [ICML 2023](https://arxiv.org/abs/2302.00203)
 
+
+# Peptide 
+
+## Misc. Tasks
+
+### Models 
+  
+* **A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation** (MMCD)     
+ Yongkang Wang, Xuan Liu, Feng Huang, Zhankun Xiong, Wen Zhang     
+[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/27749)
+
+
+* **PepGB: Facilitating peptide drug discovery via graph neural networks** (PepGB)      
+ Yipin Lei, Xu Wang, Meng Fang, Han Li, Xiang Li, Jianyang Zeng        
+ 	[arXiv:2401.14665 (2024)](https://arxiv.org/abs/2401.14665)
+
+
+* **PepHarmony: A Multi-View Contrastive Learning Framework for Integrated Sequence and Structure-Based Peptide Encoding** (PepHarmony)    
+ Ruochi Zhang, Haoran Wu, Chang Liu, Huaping Li, Yuqian Wu, Kewei Li, Yifan Wang, Yifan Deng, Jiahui Chen, Fengfeng Zhou, Xin Gao         
+	[arXiv:2401.11360 (2024)](https://arxiv.org/abs/2401.11360)
+
+
+* **PEFT-SP: Parameter-Efficient Fine-Tuning on Large Protein Language Models Improves Signal Peptide Prediction** (PEFT-SP)      
+ Shuai Zeng, Duolin Wang, Dong Xu         
+[bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.11.04.565642v1.supplementary-material)
+
+
+* **AdaNovo: Adaptive De Novo Peptide Sequencing with Conditional Mutual Information** (AdaNovo)    
+ Jun Xia, Shaorong Chen, Jingbo Zhou, Tianze Ling, Wenjie Du, Sizhe Liu, Stan Z. Li             
+	[arXiv:2403.07013 (2024)](https://arxiv.org/abs/2403.07013)
 
 
 
