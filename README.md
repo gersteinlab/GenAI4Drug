@@ -1,4 +1,4 @@
-# GenAI4Drug
+# A Survey of Generative AI for de novo Drug Design
 
 Our paper was accepted for briefings in bioinformatics!
 
