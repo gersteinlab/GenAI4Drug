@@ -2,6 +2,9 @@
 
 Repository for the survey paper "A Survey of Generative AI for *de novo* Drug Discovery: New Frontiers in Molecule and Protein Design".
 
+Our paper was accepted for briefings in bioinformatics!
+
+
 <p align="center">
 Xiangru Tang<sup>1</sup>*, Howard Dai<sup>1</sup>*, Elizabeth Knight<sup>1</sup>*, Yunyang Li<sup>1</sup>, Fang Wu<sup>2</sup>, Tianxiao Li<sup>1</sup>, Mark Gerstein<sup>1</sup>
 </p> 
