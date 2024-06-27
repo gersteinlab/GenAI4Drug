@@ -1,8 +1,10 @@
 # GenAI4Drug
 
+Our paper was accepted for briefings in bioinformatics!
+
+
 Repository for the survey paper "A Survey of Generative AI for *de novo* Drug Discovery: New Frontiers in Molecule and Protein Design".
 
-Our paper was accepted for briefings in bioinformatics!
 
 
 <p align="center">
