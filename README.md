@@ -1,6 +1,6 @@
 # A Survey of Generative AI for de novo Drug Design
 
-Our paper was accepted for briefings in bioinformatics!
+Update: our paper has been accepted for Briefings in Bioinformatics!
 
 
 Repository for the survey paper "A Survey of Generative AI for *de novo* Drug Discovery: New Frontiers in Molecule and Protein Design".
