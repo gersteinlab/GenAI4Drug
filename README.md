@@ -38,11 +38,14 @@ Section | Subsection | Datasets | Metrics | Models
 
 ## Cite us
 ```
-@article{tang2024gaisurvey,
-  title={A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation},
+@article{tang2024survey,
+  title={A survey of generative ai for de novo drug design: new frontiers in molecule and protein generation},
   author={Tang, Xiangru and Dai, Howard and Knight, Elizabeth and Wu, Fang and Li, Yunyang and Li, Tianxiao and Gerstein, Mark},
-  journal={arXiv preprint arXiv:2402.08703},
-  year={2023}
+  journal={Briefings in Bioinformatics},
+  volume={25},
+  number={4},
+  year={2024},
+  publisher={Oxford Academic}
 }
 ```
 
